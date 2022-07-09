@@ -1,1 +1,3 @@
-console.log('Test')
+function myfunction(params) {
+console.log('Test!!: ', params);  
+}
