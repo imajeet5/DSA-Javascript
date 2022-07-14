@@ -1,5 +1,5 @@
 /**
- * Problem 3
+ * Problem 4
  * This problem is similar to problem 2, with one change, that we repetition is allowed.
  * Source: https://www.geeksforgeeks.org/coin-change-dp-7/
  *
